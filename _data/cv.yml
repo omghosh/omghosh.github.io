@@ -2,31 +2,30 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Hanon McSheaAlbert Einstein
     - name: Date of Birth
-      value: 14th March 1879
+      value: 26th September, 1995
     - name: Languages
-      value: English, German
+      value: English, some Spanish, a bisl Yiddish
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Stanford University, Stanford, California
+      year: 2024
       description:
-        - Description 1.
-        - Description 2.
+        - Earth System Science
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: AB
+      institution: Harvard University, Cambridge, MA
+      year: 2018
       description:
-        - Description 1.
-        - Description 2.
+        - Concentration in Organismal Biology
+        - Secondary in Microbial Sciences
 
 - title: Experience
   type: time_table
