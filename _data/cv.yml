@@ -1,96 +1,43 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Hanon McShea
-    - name: Date of Birth
-      value: 26th September, 1995
-    - name: Languages
-      value: English, some Spanish, a bisl Yiddish
-
 - title: Education
   type: time_table
   contents:
     - title: PhD
       institution: Stanford University, Stanford, California
       year: 2024
-      description:
-        - Earth System Science
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+      description: Earth System Science
     - title: AB
       institution: Harvard University, Cambridge, MA
       year: 2018
       description:
-        - Concentration in Organismal Biology
-        - Secondary in Microbial Sciences
+      Concentration in Organismal Biology
+      Secondary in Microbial Sciences
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Stanford Bio-X Travel Award
+    - year: 2023
       items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
+        - Stanford School of Sustainability McGee and Levorsen Graduate Research Grant
+        - Training Program in Biophysical and Structural Analysis of Biological Macromolecules
+    - year: 2021
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Stanford School of Sustainability McGee and Levorsen Graduate Research Grant
+    - year: 2018
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - National Science Foundation Graduate Research Fellowship
+        - Stanford Enhancing Diversity in Graduate Education Fellowship
+    - year: 2017
+      items:
+        - Harvard Origins of Life Initiative Undergraduate Research Fellowship
+        - Harvard Life Sciences Conference Presentation Grant
+    - year: 2016
+      items:
+        - Weissmann International Research Fellowship
+    - year: 2015
+      items:
+        - University of Pittsburgh Training and Experimentation in Computational Biology Fellowship
+        
