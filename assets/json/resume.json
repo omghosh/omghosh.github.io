@@ -32,13 +32,10 @@
     {
       "institution": "Stanford University",
       "location": "Stanford, California",
-      #"url": "https://www.uzh.ch/",
       "area": "Earth System Science",
       "studyType": "PhD",
       "startDate": "2018",
       "endDate": "2024",
-      #"score": "10",
-      #"courses": ["Theory of Relativity"]
     }
   ],
   "awards": [
