@@ -15,8 +15,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! I’m a PhD candidate in the Earth System Science department at Stanford University. My advisor is **[Paula Welander](https://welanderlab.stanford.edu/)**. I am interested in the evolution of proteins and lipid membranes, with a focus on long timescales and evolutionary dynamics. You can find a list of my publications **[here](https://scholar.google.com/citations?user=mdmGCvAAAAAJ&hl=en)**, and a full CV **[here](https://cyclase.github.io/assets/pdf/McShea_CV.pdf)**.
+Hello! I’m a postdoctoral researcher working with **[Angela Phillips](https://aphillipslab.ucsf.edu/)** in the department of Microbiology and Immunology at the University of California, San Francisco. I am interested in the evolution of protein biophysics, with a focus on long timescales and evolutionary dynamics. You can find a list of my publications **[here](https://scholar.google.com/citations?user=mdmGCvAAAAAJ&hl=en)**, and a full CV **[here](https://cyclase.github.io/assets/pdf/McShea_CV.pdf)**.
 
-My graduate research has explored the diversity and evolutionary history of terpenoid cyclases, enzymes that biosynthesize polycyclic lipids such as sterols and hopanoids. I have also conducted theoretical work on the consequences of the effectiveness of selection for protein evolution. 
+I earned my PhD in 2024 working with **[Paula Welander](https://welanderlab.stanford.edu/)** at Stanford University. My doctoral research explored the functional diversity and evolutionary history of terpenoid cyclases, enzymes that biosynthesize polycyclic lipids such as sterols and hopanoids. I have also conducted theoretical work on the consequences of the effectiveness of selection for protein evolution. 
 
-I previously studied Organismal Biology at Harvard University and researched the evolution of nitrogenase enzymes. I grew up in Durham, North Carolina. Outside the lab, I enjoy birdwatching, growing plants, and building aquaria.
+I previously studied Organismic and Evolutionary Biology at Harvard University and researched the evolution of nitrogenase enzymes. I grew up in Durham, North Carolina. Outside the lab, I enjoy birdwatching, growing plants, and building aquaria.
