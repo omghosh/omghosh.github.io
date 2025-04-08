@@ -1,0 +1,26 @@
+title: Om Ghosh
+description: Research Scientist | Your Field of Research
+logo: /assets/img/logo.png
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
+
+# Your social media and contact links
+social:
+  github: omghosh
+  # twitter: yourusername
+  # linkedin: yourusername
+  # google_scholar: your_id
+  # orcid: your_id
+  email: omghosh@stanford.edu
+
+# Navigation links
+nav:
+  - title: Research
+    url: /research
+  - title: Publications
+    url: /publications
+  - title: CV
+    url: /cv
+  - title: Contact
+    url: /contact
