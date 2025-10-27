@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: ghosh_profile.jpg
+  image: ghosh_profile.jpeg
   image_circular: false # crops the image to make it circular
 
 news: false # includes a list of news items
