@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: mcshea_profile.jpg
+  image: ghosh_profile.jpg
   image_circular: false # crops the image to make it circular
 
 news: false # includes a list of news items
@@ -15,8 +15,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! I’m a postdoctoral researcher working with **[Angela Phillips](https://aphillipslab.ucsf.edu/)** in the department of Microbiology and Immunology at the University of California, San Francisco. I am interested in the evolution of protein biophysics, with a focus on long timescales and evolutionary dynamics. You can find a list of my publications **[here](https://scholar.google.com/citations?user=mdmGCvAAAAAJ&hl=en)**, and a full CV **[here](https://cyclase.github.io/assets/pdf/McShea_CV.pdf)**.
+Hello! I’m a PhD student working with **[Ben Good](https://bgoodlab.github.io)** and **[Dmitri Petrov](https://petrovlab-stanford.squarespace.com)** in the Physics Department at Stanford University. I am interested in evolution from a quantitative perspective, with a focus on finding low-dimensional structure in genotype-phenotype-fitness maps, using yeast as a model system. You can find a list of my publications **[here](https://scholar.google.com/citations?user=kxwLfygAAAAJ&hl=en)**, and a full CV **[here](https://omghosh.github.io/assets/pdf/CV_Ghosh.pdf)**.
 
-I earned my PhD in 2024 working with **[Paula Welander](https://welanderlab.stanford.edu/)** at Stanford University. My doctoral research explored the functional diversity and evolutionary history of terpenoid cyclases, enzymes that biosynthesize polycyclic lipids such as sterols and hopanoids. I have also conducted theoretical work on the consequences of the effectiveness of selection for protein evolution. 
+In my PhD, I have also worked on gaining a theoretical understanding of evolutionary dynamics in the human gut microbiome, accounting for spatial structure, as well as longer term evolutionary dynamics from a collection of natural yeast isolates.
 
-I previously studied Organismic and Evolutionary Biology at Harvard University and researched the evolution of nitrogenase enzymes. I grew up in Durham, North Carolina. Outside the lab, I enjoy birdwatching, growing plants, and building aquaria.
+I previously studied Physics at Columbia University and researched 2D materials and nanoelectronics. I grew up in San Diego, California. Outside the lab, I enjoy running, ceramics, and walking aroud Golden Gate Park.
